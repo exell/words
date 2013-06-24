@@ -31,4 +31,4 @@ DEFAULT_PAGINATION = 10
 #RELATIVE_URLS = True
 
 # Specify name of a theme installed via the pelican-themes tool
-THEME = '../../pelican-themes/gum/'
+THEME = 'gum'
