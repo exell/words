@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Exell'
 SITENAME = u'Words Of Exell'
-SITEURL = ''
+SITEURL = 'http://exell.github.io/words'
 
 TIMEZONE = 'Europe/Paris'
 
